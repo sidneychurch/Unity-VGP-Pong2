@@ -19,4 +19,4 @@ We're continuing to start our remake of _Pong_ inside Unity 6.
 * [User Interface](/07_UI/UI.md)
 
 ---
->Next: [Project Setup](/01_Setup/SETUP.md)
+>Next: [Collision and Physics](/01_Collide/COLLIDE.md)
